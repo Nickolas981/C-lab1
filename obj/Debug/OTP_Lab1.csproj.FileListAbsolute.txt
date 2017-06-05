@@ -1,0 +1,6 @@
+D:\projects\C#\OTP_Labs\OTP_Labs\OTP_Lab1\bin\Debug\OTP_Lab1.exe.config
+D:\projects\C#\OTP_Labs\OTP_Labs\OTP_Lab1\bin\Debug\OTP_Lab1.exe
+D:\projects\C#\OTP_Labs\OTP_Labs\OTP_Lab1\bin\Debug\OTP_Lab1.pdb
+D:\projects\C#\OTP_Labs\OTP_Labs\OTP_Lab1\obj\Debug\OTP_Lab1.csprojResolveAssemblyReference.cache
+D:\projects\C#\OTP_Labs\OTP_Labs\OTP_Lab1\obj\Debug\OTP_Lab1.exe
+D:\projects\C#\OTP_Labs\OTP_Labs\OTP_Lab1\obj\Debug\OTP_Lab1.pdb
